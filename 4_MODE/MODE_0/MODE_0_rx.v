@@ -1,7 +1,7 @@
 //  + luồng : clk ngoài,(data->tx) ->thanh ghi nhận từng bit -> nhận đủ 1 byte
 //
 //
-//          Đặc điểm :   + nhận lần lượt 8 bit ,"ko có" bít stop,start  chân RxD (P3.0)
+//          Đặc điểm :   + nhận lần lượt 8 bit ,"ko có" bít stop,start qua chân RxD (P3.0)
 //
 //                       + nhận clk đồng bộ qua  TxD (P3.1)
 //
