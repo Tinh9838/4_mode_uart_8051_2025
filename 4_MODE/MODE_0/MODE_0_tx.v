@@ -3,7 +3,7 @@
 //
 //          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start 
 //
-//                       + truyền clk đồng bộ qua  TxD (P3.1)
+//                       + truyền clk đồng bộ và tùng bít qua  TxD (P3.1)
 //
 //                       
 // 
