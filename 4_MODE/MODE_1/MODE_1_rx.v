@@ -4,11 +4,11 @@
 //     đặc điểm :    +   nhận  start + 8 data + stop   
 //
 //
-//                   + Baudrate điều khiển bằng Timer 1 (hoặc Timer 2 ở chip mới hơn):
+//                   + Baudrate điều khiển bằng Timer 1 (hoặc Timer 2 ở chip mới hơn): 1bit tương ứng với 1 tick_baud
 //
 //
-//
-//
+//                   + là chế độ phổ biến nhất 
+//                     
 //
 //
 //
