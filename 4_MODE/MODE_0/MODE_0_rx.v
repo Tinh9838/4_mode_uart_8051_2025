@@ -5,7 +5,7 @@
 //
 //                       + nhận clk đồng bộ qua  TxD (P3.1)
 //
-//                       
+//                       + tốc độ 1 bit ứng với 1 clk = 1/f = 1/ 12Mhz (bít/s)
 //
 //
 //
