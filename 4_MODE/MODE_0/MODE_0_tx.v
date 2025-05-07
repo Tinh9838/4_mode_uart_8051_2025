@@ -5,7 +5,7 @@
 //
 //                       + truyền clk đồng bộ và tùng bít ra TxD (P3.1)
 //
-//                       + tốc độ 1 bit ứng với 1 clk
+//                       + tốc độ 1 bit ứng với 1 clk cố định
 //                        
 //
 //
