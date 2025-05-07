@@ -1,3 +1,23 @@
+//       +   luồng: tín hiệu truyền+ data-> thanh ghi -> dịch bit -> chân tx
+//
+//
+//       đặc điểm : + bit stat +[bit mở rộng]+ data + bit stop
+//
+//
+//
+//                  +
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 module uart_mode2_tx (
     input wire clk,
     input wire rst,
