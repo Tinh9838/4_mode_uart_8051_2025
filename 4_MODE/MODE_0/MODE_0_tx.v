@@ -1,3 +1,23 @@
+//          luồng: tín hiệu truyền+ data-> thanh ghi -> dịch bit -> chân tx
+//
+//
+//          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start
+//
+//                       + dùng clk đồng bộ ->  TxD (P3.1): Xuất xung clock ra cho thiết bị bên ngoài
+//
+//                       + RxD (P3.0): Dữ liệu truyền và nhận (chung một đường): 8051 được thiết kế từ thập niên 1980 → tối ưu chân và đơn giản hóa phần cứng
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 module uart_mode0_tx (
     input wire clk,            // clock hệ thống (chu kỳ gửi 1 bit)
     input wire rst,
