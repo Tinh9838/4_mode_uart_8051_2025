@@ -10,7 +10,7 @@
 //
 //
 //
-//    8051 được thiết kế từ thập niên 1980 → tối ưu chân và đơn giản hóa phần cứng
+//    8051 được thiết kế từ thập niên 1980
 //
 //
 //
