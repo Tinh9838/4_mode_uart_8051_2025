@@ -1,15 +1,16 @@
 //          luồng: tín hiệu truyền+ data-> thanh ghi -> dịch bit -> chân tx
 //
 //
-//          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start
+//          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start 
 //
-//                       + dùng clk đồng bộ ->  TxD (P3.1): Xuất xung clock ra cho thiết bị bên ngoài
+//                       + truyền clk đồng bộ qua  TxD (P3.1)
 //
-//                       + RxD (P3.0): Dữ liệu truyền và nhận (chung một đường): 8051 được thiết kế từ thập niên 1980 → tối ưu chân và đơn giản hóa phần cứng
+//                       
+// 
 //
 //
 //
-//
+//    8051 được thiết kế từ thập niên 1980 → tối ưu chân và đơn giản hóa phần cứng
 //
 //
 //
