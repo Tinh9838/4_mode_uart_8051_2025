@@ -1,7 +1,7 @@
 //    + luồng : clk ngoài,(data->tx) ->thanh ghi nhận từng bit -> nhận đủ 1 byte
 //
 //
-//     đặc điểm :    +   nhận  start + 8 data + stop   
+//     đặc điểm :    +   nhận  start + 8 data + stop .chân nhận Rxd (P3.0)
 //
 //
 //                   + Baudrate điều khiển bằng Timer 1 (hoặc Timer 2 ở chip mới hơn): 1bit tương ứng với 1 tick_baud
