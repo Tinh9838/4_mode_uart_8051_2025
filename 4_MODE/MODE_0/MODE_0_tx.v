@@ -1,9 +1,9 @@
 //          luồng: tín hiệu truyền+ data-> thanh ghi -> dịch bit -> chân tx
 //
 //
-//          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start 
+//          Đặc điểm :   + truyền 8 bit ,ko có bít stop,start ra TxD (p3.1)
 //
-//                       + truyền clk đồng bộ và tùng bít qua  TxD (P3.1)
+//                       + truyền clk đồng bộ và tùng bít ra TxD (P3.1)
 //
 //                       
 // 
