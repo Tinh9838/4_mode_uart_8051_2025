@@ -10,7 +10,7 @@
 //
 //
 //
-//    8051 được thiết kế từ thập niên 1980
+//    8051 mod 0 uart được thiết kế từ thập niên 1980
 //
 //
 //
