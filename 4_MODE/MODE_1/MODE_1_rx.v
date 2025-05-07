@@ -1,3 +1,23 @@
+//    + luồng : clk ngoài,(data->tx) ->thanh ghi nhận từng bit -> nhận đủ 1 byte
+//
+//
+//     đặc điểm :    +   nhận  start + 8 data + stop   
+//
+//
+//                   + Baudrate điều khiển bằng Timer 1 (hoặc Timer 2 ở chip mới hơn):
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 module uart_rx_mode1 (
     input wire clk,              // Clock chính
     input wire rst,              // Reset đồng bộ
