@@ -1,3 +1,23 @@
+//     luồng: tín hiệu truyền+ data-> thanh ghi -> dịch bit -> chân tx
+//
+//
+//     đặc điểm :    +   nhận  start + 8 data + stop   
+//
+//
+//                   + Baudrate điều khiển bằng Timer 1 (hoặc Timer 2 ở chip mới hơn): 1bit tương ứng với 1 tick_baud
+//
+//
+//                   + là chế độ phổ biến nhất 
+//                     
+//
+//
+//
+//
+//
+//
+//
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 module uart_tx_mode1 (
     input wire clk,              // Clock chính
     input wire rst,              // Reset đồng bộ
