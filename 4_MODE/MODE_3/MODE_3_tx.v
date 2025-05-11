@@ -1,4 +1,4 @@
-// + luồng : data + tb8 -> ghi -> dịch bít  -> tx
+// + luồng : data + tb8 -> shift register -> dịch bít  -> tx
 //
 //
 //
