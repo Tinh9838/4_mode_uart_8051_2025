@@ -2,7 +2,7 @@
 //
 //
 //
-//+ giống mode 2 chỉ khác ở tốc độ phụ thuộc time.
+// đặc điểm : + giống mode 2 chỉ khác ở tốc độ phụ thuộc time.
 //
 //
 //
