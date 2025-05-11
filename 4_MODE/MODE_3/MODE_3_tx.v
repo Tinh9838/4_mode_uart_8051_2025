@@ -1,10 +1,10 @@
-// + như mode 2 nhưng chỉ khác là tốc độ linh hoạt theo time.
+// + luồng : data + tb8 -> ghi -> dịch bít  -> tx
 //
 //
 //
 //
 //
-//
+//+ như mode 2 nhưng chỉ khác là tốc độ linh hoạt theo time.
 //
 //
 //
