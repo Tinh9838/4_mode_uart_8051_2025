@@ -1,4 +1,4 @@
-// + luồng : tx -> dịch bít vào thanh ghi-> data + bt8
+// + luồng : rx -> dịch bít vào thanh ghi-> data + bt8
 //
 //
 //
