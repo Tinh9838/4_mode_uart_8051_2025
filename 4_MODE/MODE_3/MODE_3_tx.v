@@ -4,8 +4,8 @@
 //
 //
 //
-//+ như mode 2 nhưng chỉ khác là tốc độ linh hoạt theo time.
-//
+// đặc điểm : + như mode 2 nhưng chỉ khác là tốc độ linh hoạt theo time.
+// 
 //
 //
 //
