@@ -9,7 +9,7 @@
 //
 //
 //
-//                 + bit mở rộng tùy theo mục đích
+//                 + bit mở rộng tb8 tùy theo mục đích
 //
 //
 //
