@@ -5,11 +5,11 @@
 //
 //
 //
-//                  +
+//                  + tốc độ ko phụ thuộc time
 //
 //
 //
-//
+//                 + bit mở rộng tùy theo mục đích
 //
 //
 //
